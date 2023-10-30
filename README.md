@@ -1,4 +1,4 @@
-# cook
+# cozinhe com a gente
 
 
 Seja você um cozinheiro experiente ou alguém que está apenas começando a explorar o mundo da culinária, o nosso site de receitas é o seu destino definitivo para inspiração gastronômica. Com uma coleção vasta e diversificada de receitas de todo o mundo, estamos aqui para satisfazer os paladares mais exigentes e desafiá-lo a explorar novos sabores.
