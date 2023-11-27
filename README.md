@@ -1,3 +1,5 @@
+
+nicole e julia n:28 e 17
 # cozinhe com a gente
 
 
@@ -6,3 +8,4 @@ Seja você um cozinheiro experiente ou alguém que está apenas começando a exp
 Navegar pelo nosso site é uma jornada sensorial. Você encontrará receitas clássicas que evocam memórias familiares e pratos modernos que surpreenderão seu paladar. Nosso objetivo é tornar a culinária acessível a todos, com instruções detalhadas e vídeos passo a passo para que você possa seguir as receitas com facilidade.
 
 Além disso, valorizamos ingredientes frescos e saudáveis, promovendo uma abordagem equilibrada para a alimentação. Você descobrirá receitas para todas as ocasiões, desde café da manhã saudável até sobremesas decadentes. E se você tiver restrições alimentares, não se preocupe.
+
