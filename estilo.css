@@ -13,3 +13,10 @@ p {
 #seja{
     font-size: 30px;
 }
+
+#conteudo {
+    display: flex;
+}
+#foto1{
+    width: 50%
+}
